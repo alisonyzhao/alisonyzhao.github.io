@@ -1,67 +1,37 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "I have been a TA for the following courses:"
 title-block-banner: false
 ---
 
 
-## Class 1
+MECN430 Microeconomic Analysis
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
+[Winter 2023, 2024, 2025, 2026] 
 
 :::
 
 :::
 
 
-## Class 2
+DECS 431 Business Analytics II 
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
+[Fall 2024, 2025]
 
 :::
 
 :::
 
 
-## Class 3
+STRT 452 Strategy and Organization
 
-::: {.grid}
+[Fall 2023, 2024, 2025]
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
 
 :::
 
 :::
 
+MECN 441 Competitive Strategy and Industrial Structure
 
+[Summer 2023, 2024]
