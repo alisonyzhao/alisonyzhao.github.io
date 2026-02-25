@@ -17,22 +17,16 @@ website:
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
-      - text: About
-        menu:
-      #    - text: News
-      #     href: posts.qmd#category=news
-      #    - text: Events
-      #      href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
+      - text: Contact
+        href: contact.qmd             
       - text: Research
         menu:
       #    - text: Publications
       #      href: publications.qmd
           - text: Working Papers
             href: posts.qmd#category=paper
-      #    - text: Grants
-      #      href: projects.qmd                                
+          - text: Work in Progress
+            href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
    #   - text: Outreach
